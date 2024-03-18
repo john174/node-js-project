@@ -1,4 +1,4 @@
-[
+
 # Node.js Task Manager API
 
 This project is a Node.js-based Task Manager API that allows users to manage their tasks efficiently. It utilizes MongoDB for data storage, Express for the server framework, and JWT (JSON Web Tokens) for user authentication.
@@ -73,4 +73,4 @@ This API uses JWT for user authentication. Include the token in the Authorizatio
 - `status`: Task status, defaults to 'pending'.
 - `deadline`: Task deadline date.
 - `user`: Reference to the User who created the task.
-](https://github.com/john174/node-js-project.git)https://github.com/john174/node-js-project.git
+(https://github.com/john174/node-js-project.git)https://github.com/john174/node-js-project.git
