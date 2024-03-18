@@ -16,7 +16,7 @@ To get started with this project, clone the repository and install the dependenc
 
 ```bash
 git clone https://github.com/john174/node-js-project.git
-cd your-repo-name
+cd node-js-project
 npm install
 ```
 
