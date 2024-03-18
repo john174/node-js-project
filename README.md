@@ -73,4 +73,4 @@ This API uses JWT for user authentication. Include the token in the Authorizatio
 - `status`: Task status, defaults to 'pending'.
 - `deadline`: Task deadline date.
 - `user`: Reference to the User who created the task.
-(https://github.com/john174/node-js-project.git)https://github.com/john174/node-js-project.git
+https://github.com/john174/node-js-project.git
