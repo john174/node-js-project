@@ -15,7 +15,7 @@ This project is a Node.js-based Task Manager API that allows users to manage the
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-github-username/your-repo-name.git
+git clone https://github.com/john174/node-js-project.git
 cd your-repo-name
 npm install
 ```
@@ -73,4 +73,3 @@ This API uses JWT for user authentication. Include the token in the Authorizatio
 - `status`: Task status, defaults to 'pending'.
 - `deadline`: Task deadline date.
 - `user`: Reference to the User who created the task.
-https://github.com/john174/node-js-project.git
